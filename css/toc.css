@@ -1,0 +1,123 @@
+.book .book-summary {
+  position: absolute;
+  top: 0;
+  left: -300px;
+  width: 300px;
+  bottom: 0;
+  z-index: 1;
+  color: #FFFFFF;
+  background: #020303;
+}
+
+.book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
+  margin: 5px 5px 5px 5px;
+  display: block;
+  padding: 10px 20px 10px 20px;
+  color: #FFFFFF;
+  background: 0 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+
+.book .book-summary ul.summary li.active>a {
+  padding-left: 5px;
+  color: #FFFFFF;
+  font-weight: bold;
+  border-left: 4px solid #5f9ea0;
+  text-decoration: none;
+}
+
+.book .book-summary ul.summary li a:hover {
+  padding-left: 5px;
+  color: #FFFFFF;
+  font-weight: bold;
+  border-left: 4px solid #5f9ea0;
+  text-decoration: none;
+}
+
+.tg {
+  border: none;
+  border-collapse: collapse;
+  border-color: #ccc;
+  border-spacing: 0;
+}
+
+.tg td {
+  background-color: #fff;
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 0px;
+  color: #333;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  background-color: #f0f0f0;
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 0px;
+  color: #333;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-o40d {
+  border-color: #9b9b9b;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-duar {
+  background-color: #f9f9f9;
+  border-color: #9b9b9b;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-g5p9 {
+  background-color: #f9f9f9;
+  border-color: #9b9b9b;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-vbic {
+  border-color: #9b9b9b;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-amwm {
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-yb78 {
+  background-color: #f9f9f9;
+  border-color: #9b9b9b;
+  text-align: center;
+  vertical-align: middle
+}
+
+.tg .tg-nrix {
+  text-align: center;
+  vertical-align: middle
+}
+
+.part {
+  padding-top: 2em;
+  text-transform: uppercase;
+  font-size: .95em;
+}

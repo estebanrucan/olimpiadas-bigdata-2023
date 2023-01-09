@@ -1,0 +1,121 @@
+categoria,articulo,tamano_de_la_porcion,calorias,proteina,sodio,grasa_saturada,azucares
+Desayuno,Huevo McMuffin,136,300,17,0,5,3
+Desayuno,Delicia de clara de huevo,135,250,18,30.252100840336137,3,3
+Desayuno,McMuffin de salchicha,111,370,14,60.50420168067227,8,2
+Desayuno,McMuffin de salchicha con huevo,161,450,21,90.7563025210084,10,2
+Desayuno,McMuffin de salchicha con claras de huevo,161,400,21,121.00840336134452,8,2
+Desayuno,McMuffin de bistec y huevo,185,430,26,151.26050420168067,9,3
+Desayuno,"Bizcocho De Tocino, Huevo Y Queso (Bizcocho Regular)",150,460,19,181.5126050420168,13,3
+Desayuno,"Galleta De Tocino, Huevo Y Queso (Galleta Grande)",164,520,19,211.76470588235293,14,4
+Desayuno,"Galleta de tocino, huevo y queso con claras de huevo (galleta normal)",153,410,20,242.01680672268907,11,3
+Desayuno,"Galleta de tocino, huevo y queso con claras de huevo (galleta grande)",167,470,20,272.2689075630252,12,4
+Desayuno,Galleta De Salchicha (Galleta Regular),117,430,11,302.52100840336135,12,2
+Desayuno,Galleta De Salchicha (Galleta Grande),131,480,11,332.7731092436975,13,3
+Desayuno,Galleta De Salchicha Con Huevo (Galleta Regular),163,510,18,363.0252100840336,14,2
+Desayuno,Galleta De Salchicha Con Huevo (Galleta Grande),177,570,18,393.2773109243697,15,3
+Desayuno,Galleta De Salchicha Con Claras De Huevo (Galleta Regular),167,460,18,423.52941176470586,12,3
+Desayuno,Galleta De Salchicha Con Clara De Huevo (Galleta Grande),181,520,18,453.781512605042,13,3
+Desayuno,Galleta de pollo estilo sureño (galleta regular),143,410,17,484.03361344537814,8,3
+Desayuno,Galleta de pollo estilo sureño (galleta grande),157,470,17,514.2857142857142,9,4
+Desayuno,Bizcocho de bistec y huevo (bizcocho normal),201,540,25,544.5378151260504,16,3
+Desayuno,"McGriddles de tocino, huevo y queso",174,460,19,574.7899159663865,9,15
+Desayuno,"McGriddles de tocino, huevo y queso con claras de huevo",178,400,20,605.0420168067227,7,16
+Desayuno,McGriddles de salchicha,141,420,11,635.2941176470588,8,15
+Desayuno,"McGriddles de salchicha, huevo y queso",201,550,20,665.546218487395,12,15
+Desayuno,"McGriddles de salchicha, huevo y queso con claras de huevo",205,500,21,695.7983193277311,10,15
+Desayuno,"Bagel de tocino, huevo y queso",197,620,30,726.0504201680671,11,7
+Desayuno,"Bagel de tocino, huevo y queso con claras de huevo",201,570,30,756.3025210084033,9,8
+Desayuno,"Bagel de bistec, huevo y queso",241,670,33,786.5546218487394,13,7
+Desayuno,Gran Desayuno (Galleta Regular),269,740,28,816.8067226890756,17,3
+Desayuno,Desayuno grande (galleta grande),283,800,28,847.0588235294117,18,3
+Desayuno,Gran Desayuno con Claras de Huevo (Galleta Regular),272,640,26,877.3109243697479,14,3
+Desayuno,Gran desayuno con claras de huevo (galleta grande),286,690,26,907.563025210084,14,4
+Desayuno,Gran Desayuno con Hotcakes (Galleta Regular),420,1090,36,937.8151260504202,19,17
+Desayuno,Gran desayuno con hotcakes (galleta grande),434,1150,36,968.0672268907564,20,17
+Desayuno,Gran Desayuno con Hotcakes y Claras de Huevo (Galleta Regular),423,990,35,998.3193277310924,16,17
+Desayuno,Gran desayuno con hotcakes y claras de huevo (galleta grande),437,1050,35,1028.5714285714284,16,18
+Desayuno,Panqueques,151,350,8,1058.8235294117646,2,14
+Desayuno,Hotcakes y salchichas,192,520,15,1089.0756302521008,7,14
+Desayuno,Burrito de salchicha,111,300,12,1119.327731092437,7,2
+Desayuno,Hash Brown,56,150,1,1149.579831932773,1.5,0
+Desayuno,Derretidos de canela,114,460,6,1179.8319327731092,9,32
+Desayuno,Avena de frutas y arce,251,290,5,1210.0840336134454,1.5,32
+Desayuno,Avena de frutas y arce sin azúcar morena,251,260,5,1240.3361344537814,1.5,18
+Carne de cerdo,Big Mac,211,530,24,1270.5882352941176,10,9
+Carne de cerdo,Cuarto de Libra con queso,202,520,30,1300.8403361344538,12,10
+Carne de cerdo,Cuarto de libra con tocino y queso,227,600,37,1331.09243697479,13,12
+Carne de cerdo,Quarter Pounder con tocino Habanero Ranch,235,610,37,1361.344537815126,13,10
+Carne de cerdo,Cuarto de libra de lujo,244,540,29,1391.596638655462,11,9
+Carne de cerdo,Cuarto de libra doble con queso,283,750,48,1421.8487394957983,19,10
+Carne de cerdo,hamburguesa,98,240,12,1452.1008403361343,3,6
+Carne de cerdo,Hamburguesa con queso,113,290,15,1482.3529411764705,5,7
+Carne de cerdo,Doble hamburguesa de queso,161,430,24,1512.6050420168067,10,7
+Carne de cerdo,Doble hamburguesa de queso,161,430,24,1542.857142857143,10,7
+Carne de cerdo,Hamburguesa de tocino Clubhouse,270,720,39,1573.1092436974789,15,14
+Carne de cerdo,McDouble,147,380,22,1603.361344537815,8,7
+Carne de cerdo,Tocino mcdouble,161,440,27,1633.6134453781513,10,7
+Carne de cerdo,Doble Diaria,190,430,22,1663.8655462184877,9,7
+Carne de cerdo,Jalapeño Doble,159,430,22,1694.1176470588234,9,6
+Carne de cerdo,McRib,208,500,22,1724.3697478991596,10,11
+Pollo y pescado,Sándwich Clásico De Pollo Crujiente Premium,213,510,24,1754.6218487394958,3.5,10
+Pollo y pescado,Sándwich Clásico De Pollo A La Parrilla Premium,200,350,28,1784.8739495798318,2,8
+Pollo y pescado,Sándwich Club De Pollo Crujiente Premium,249,670,36,1815.126050420168,9,11
+Pollo y pescado,Sándwich Club De Pollo A La Parrilla Premium,235,510,40,1845.378151260504,7,9
+Pollo y pescado,Sándwich premium crujiente de pollo Ranch BLT,230,610,32,1875.6302521008404,6,11
+Pollo y pescado,Sándwich premium de pollo asado Ranch BLT,217,450,36,1905.8823529411764,4.5,9
+Pollo y pescado,Sándwich de pollo crujiente con tocino Clubhouse,284,750,36,1936.1344537815123,10,16
+Pollo y pescado,Sándwich de pollo a la parrilla con tocino Clubhouse,270,590,40,1966.3865546218487,8,14
+Pollo y pescado,Sándwich de pollo crujiente estilo sureño,160,430,21,1996.6386554621847,3,7
+Pollo y pescado,McChicken,143,360,14,2026.890756302521,3,5
+Pollo y pescado,Bacon Cheddar McChicken,171,480,22,2057.142857142857,7,6
+Pollo y pescado,Buffalo Ranch McChicken,148,360,14,2087.3949579831933,3,5
+Pollo y pescado,Pollo y tocino Premium McWrap (pollo crujiente),316,630,32,2117.6470588235293,9,7
+Pollo y pescado,Pollo y tocino Premium McWrap (pollo a la parrilla),302,480,36,2147.8991596638657,7,6
+Pollo y pescado,Premium McWrap Chicken & Ranch (pollo crujiente),310,610,27,2178.1512605042017,8,8
+Pollo y pescado,Premium McWrap Chicken & Ranch (pollo asado),297,450,30,2208.4033613445376,6,6
+Pollo y pescado,Pollo Sudoeste Premium McWrap (Pollo Crujiente),314,670,27,2238.655462184874,8,12
+Pollo y pescado,Pollo Premium McWrap Southwest (pollo a la parrilla),318,520,31,2268.90756302521,6,10
+Pollo y pescado,Chili Dulce De Pollo Premium McWrap (Pollo Crujiente),304,540,23,2299.159663865546,4.5,14
+Pollo y pescado,Chili Dulce De Pollo McWrap Premium (Pollo A La Parrilla),291,380,27,2329.4117647058824,3,12
+Pollo y pescado,McNuggets de pollo (4 piezas),65,190,9,2359.6638655462184,2,0
+Pollo y pescado,McNuggets de pollo (6 piezas),97,280,13,2389.9159663865544,3,0
+Pollo y pescado,McNuggets de pollo (10 piezas),162,470,22,2420.168067226891,5,0
+Pollo y pescado,McNuggets de pollo (20 piezas),323,940,44,2450.4201680672268,10,0
+Pollo y pescado,Filete de pescado,142,390,15,2480.6722689075627,4,5
+Ensaladas,Ensalada ranchera de tocino premium (sin pollo),223,140,9,2510.924369747899,3.5,4
+Ensaladas,Ensalada ranchera de tocino premium con pollo crujiente,255,380,25,2541.176470588235,6,5
+Ensaladas,Ensalada ranchera de tocino premium con pollo asado,241,220,29,2571.4285714285716,4,4
+Ensaladas,Ensalada Premium Southwest (sin pollo),230,140,6,2601.6806722689075,2,6
+Ensaladas,Ensalada Premium Southwest con pollo crujiente,348,450,23,2631.9327731092435,4.5,12
+Ensaladas,Ensalada Premium Southwest con pollo a la parrilla,335,290,27,2662.18487394958,2.5,10
+Aperitivos y acompañamientos,Snack Wrap de Chipotle BBQ (Pollo Crujiente),130,340,14,2692.436974789916,4.5,8
+Aperitivos y acompañamientos,Snack Wrap de Chipotle BBQ (Pollo a la Parrilla),123,260,16,2722.689075630252,3.5,7
+Aperitivos y acompañamientos,Wrap de Miel y Mostaza (Pollo Crujiente),123,330,14,2752.9411764705883,4.5,3
+Aperitivos y acompañamientos,Wrap de Miel y Mostaza (Pollo a la Parrilla),116,250,16,2783.1932773109243,3.5,2
+Aperitivos y acompañamientos,Envoltura de bocadillos Ranch (pollo crujiente),128,360,15,2813.44537815126,5,3
+Aperitivos y acompañamientos,Envoltura de bocadillos ranch (pollo asado),121,280,16,2843.6974789915967,4.5,2
+Aperitivos y acompañamientos,Papas Fritas Pequeñas,75,230,2,2873.9495798319326,1.5,0
+Aperitivos y acompañamientos,Papas fritas medianas,111,340,4,2904.2016806722686,2.5,0
+Aperitivos y acompañamientos,Papas fritas grandes,168,510,6,2934.453781512605,3.5,0
+Aperitivos y acompañamientos,Papas fritas para niños,38,110,1,2964.705882352941,1,0
+Aperitivos y acompañamientos,Ensalada,87,20,1,2994.9579831932774,0,2
+Aperitivos y acompañamientos,Rebanadas de manzana,34,15,0,3025.2100840336134,0,3
+Aperitivos y acompañamientos,Perfecto Fruit 'n Yogurt,149,150,4,3055.46218487395,1,23
+Postres,Pastel de manzana al horno,77,250,2,3085.714285714286,7,13
+Postres,Galleta con chispas de chocolate,33,160,2,3115.9663865546217,3.5,15
+Postres,Galleta de avena con pasas,33,150,2,3146.2184873949577,2.5,13
+Postres,Cono de helado para niños,29,45,1,3176.470588235294,1,6
+Postres,Sundae de chocolate caliente,179,330,8,3206.72268907563,7,48
+Postres,Sundae de caramelo caliente,182,340,7,3236.974789915966,5,43
+Postres,Helado de fresa,178,280,6,3267.2268907563025,4,45
+Bebidas,Jarra de leche descremada al 1%,236,100,8,3297.4789915966385,1.5,12
+Bebidas,Jarra de leche con chocolate sin grasa,236,130,9,3327.731092436975,0,22
+Bebidas,Caja de jugo de manzana 100% Minute Maid,177,80,0,3357.983193277311,0,19
+Batidos,McFlurry con caramelos de M&M (pequeño),310,650,13,3388.235294117647,14,89
+Batidos,McFlurry con caramelos de M&M (mediano),460,930,20,3418.4873949579833,20,128
+Batidos,McFlurry con caramelos de M&M (bocadillo),207,430,9,3448.7394957983192,10,59
+Batidos,McFlurry con galletas Oreo (pequeño),285,510,12,3478.991596638655,9,64
+Batidos,McFlurry con galletas Oreo (mediano),381,690,15,3509.2436974789916,12,85
+Batidos,McFlurry con galletas Oreo (bocadillo),190,340,8,3539.4957983193276,6,43
+Batidos,McFlurry con tazas de mantequilla de maní de Reese (mediano),403,810,21,3569.7478991596636,15,103
+Batidos,McFlurry con tazas de mantequilla de maní de Reese (bocadillo),202,410,10,3600,8,51
